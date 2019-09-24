@@ -1,2 +1,2 @@
 # prezence
-Git demo for 4it115
+Tohle je opravdu zajimave demo.
