@@ -1,0 +1,1 @@
+# Prezence - Snad se mi to povedlo, když už jsem sem dnes pøišel.
